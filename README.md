@@ -6,7 +6,7 @@ But the way we provide input to the trained model is what make it different from
 I have made the virtual interface using opencv to provide handwritten digits to the model for classification.
 I am doing the contour detection of blue color object to provide a handwritten digit as input to the trained model.
 
-#Technology Used
+# Technology Used
 - Opencv
 - Deep Neural Network
 - CNN
